@@ -7,6 +7,7 @@
 * mysql şifresi programda varsayılan olarak "root"'dur.
 * mysql şifresini değiştirmek için "src/app/Config.java" dosyasında bulunan "DB_USER" ve "DB_PASS" static değişkenlerin değerleri değiştirilebilir. 
 
+## Sisteme ilk giriş için kullanıcı adı ve şifre "admin"'dir.
 
 ### ABDULBAKİ ZIRIH
 ### 18/04/2020
